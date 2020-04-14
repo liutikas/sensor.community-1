@@ -27,8 +27,8 @@ title: Configure
 ### Test the station
 If no changes have been made other than entering the WiFi network data, the sensor can be 'tested' on the following pages after about 10 minutes. On these pages you have to search for the ChipID (in the example above the 13597771).
 
- * [Sensordaten](www.madavi.de/sensor/graph.php) 
- * [WLAN-Signal](www.madavi.de/sensor/signal.php) 
+ * [Sensordaten](http://www.madavi.de/sensor/graph.php) 
+ * [WLAN-Signal](http://www.madavi.de/sensor/signal.php) 
         
 
 
